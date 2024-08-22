@@ -11,8 +11,6 @@ import { CoursesList } from "@/components/courses-list";
 export default async function Dashboard() {
 	const { userId } = auth();
 
-	console.log(userId);
-
 	if (!userId) {
 		return redirect("/");
 	}
