@@ -20,6 +20,12 @@ or
 
 <video src="demo/CoderOne LMS.mp4"></video>
 
+## Link to our other project
+
+[Feedback Collection System](https://github.com/Chinmayee-cd/Feedback-collection-system) - GitHub Repository
+
+[Feedback Collection System](https://www.youtube.com/watch?v=c7iFl047znk) - Demo Video on YouTube
+
 ## To Recreate the Project or Run Locally
 
 ### Sample .env file
