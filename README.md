@@ -14,11 +14,11 @@ Hey, there. This repository contains the source code for our Online Course Platf
 
 ## Demo Video
 
-[Watch on YouTube](https://youtu.be/1Q2Q7z1Q1Qk)
+[Watch on YouTube](https://youtu.be/VXzo35fQpLA)
 
-or
+or [Download from here](<demo/CoderOne LMS.mp4>)
 
-<video src="demo/CoderOne LMS.mp4"></video>
+![Demo Video](<demo/CoderOne LMS.mp4>)
 
 ## Link to our other project
 
